@@ -1,5 +1,6 @@
-<img width="1023" height="678" alt="Captura de tela 2026-11-13 110113" src="https://github.com/user-attachments/assets/e91fb281-e3c4-43fc-98f1-f3b133682d5a" />
-<img width="902" height="659" alt="Captura de tela 2026-11-13 110142" src="https://github.com/user-attachments/assets/3a24bce4-5cb8-4fc3-9f55-2a5ef99a383e" />
+<img width="467" height="595" alt="Captura de tela 2026-11-13 112254" src="https://github.com/user-attachments/assets/d8289fa0-9d4b-4185-b80b-0cdbc75f8c0c" />
+<img width="459" height="546" alt="Captura de tela 2026-11-13 112342" src="https://github.com/user-attachments/assets/18e40896-b740-4611-b2f1-fef66bc55735" />
+
 # CineList 🎬
 **Aluno 21 — Resenhas e Catálogo de Filmes Independentes**
 
