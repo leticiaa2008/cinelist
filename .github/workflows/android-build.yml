@@ -24,6 +24,9 @@ jobs:
       - name: Instalar dependencias
         run: npm ci
 
+      - name: Gerar arquivos web
+        run: npm run build
+
       - name: Configurar Java JDK 21
         uses: actions/setup-java@v4
         with:
